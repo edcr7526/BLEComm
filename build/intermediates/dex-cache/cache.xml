@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_36e37a994be9e03cde89d726bdbcef9ae37bc711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/xxx/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_537f2d44f9e33e01e669032201312758ad66671a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_07d00c296007c0c22f82e5b01b747f28cc34ca67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a1f4557e3e588a001c058dcbd7d33ab35e73d628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3a69e5ca7b821a77a51f7262ae20c99a3beb5b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f72901caded04c085ee07a9cd4c6d2e22fa758a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a041adccad6aaec829cba0fa3a9ea935d1762b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_73a92f37ae2126af572c9118e0b64ffe149a4774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e5d8b264e82863e650b0f20c3faceb2e39ab3770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9e01a126362e8ae42ed0597219cbecc3d40ffbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_bad1e99a0fc38947fbd2df990c207e0af33bc2ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4d32ba37ce1cef7efa5bafe17d0ee9b263ce44a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2948341998c11608154eb877469dbf87a27ab961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_312465786d78e52027c8bc8064db50358d4890a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/eddie/Downloads/BLEMingleDroid-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_e63247247fd55e53d68c7a3d5aad951ae0e191cc.jar" />
+    </item>
+
+</items>
